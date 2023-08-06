@@ -5,6 +5,7 @@
     "nextjs",
     "oaidalleapiprodscus",
     "openai",
-    "prismadb"
+    "prismadb",
+    "zustand"
   ]
 }
