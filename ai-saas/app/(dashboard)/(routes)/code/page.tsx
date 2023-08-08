@@ -23,7 +23,6 @@ import { Empty } from "@/components/ui/empty";
 import { useProModal } from "@/hooks/use-pro-modal";
 
 import { formSchema } from "./constants";
-require('dotenv').config()
 const CodePage = () => {
   const router = useRouter();
   const proModal = useProModal();
