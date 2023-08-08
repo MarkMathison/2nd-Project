@@ -1,11 +1,14 @@
 {
   "cSpell.words": [
+    "clsx",
+    "cmdk",
     "hookform",
     "lucide",
     "nextjs",
     "oaidalleapiprodscus",
     "openai",
     "prismadb",
+    "tailwindcss",
     "zustand"
   ]
 }
